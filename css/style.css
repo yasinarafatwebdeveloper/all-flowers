@@ -119,17 +119,62 @@ background: rgba(71, 125, 17, 0.15);
     height: 88px;
 }
 /* fourth section css is start */
-
+.forth-flower-section{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+    height: 550px;
+}
 .flower-deal{
     display: flex;
+    padding: 100px 200px;
 }
 .sale-flower{
 
-    border: 2px solid green;
+ 
     width: 100%;
+    margin-top: 70px;
 }
 .indivitual-image{
 
-    width: 100%;
-    border: 2px solid darkcyan;
+    width: 80%;
+
+}
+.indivitual-flower{
+    width: 300px;
+    height: 400px;
+    padding:0 50px;
+}
+.flower-sale-up{
+
+    color: #272727;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+span{
+    color: #E55473;
+    font-size: 40px;
+
+font-weight: 800;
+}
+.title-of-flower{
+    text-align: center;
+}
+
+.sign-of-button{
+    text-align: center;
+    
+  
+}
+.btn-sign{
+    padding: 15px;
+    width: 100px;
+    background:#E55473;
+    border: none;
+    border-radius: 4px;
+    margin-top: 10px;
+    color:white;
 }
