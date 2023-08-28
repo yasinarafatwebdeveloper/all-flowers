@@ -1,0 +1,42 @@
+/* font family item is show here */
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.flower-header{
+    display: flex;
+}
+.flower-description{
+    /* width: 700px; */
+    /* border: 3px solid gold; */
+    
+   margin-top: 50px;
+}
+header{
+     padding:  70px 100px; 
+ background: rgba(229, 84, 115, 0.10);
+ height: 500px;
+ 
+}
+.flower-part-of-life{
+    color: #272727;
+
+ font-size: 60px; 
+
+font-weight: 600; 
+
+}
+img{
+    width: 600px;
+    height: 600px;
+    
+}
+.flower-button{
+    margin-top: 30px;
+    border-radius: 8px;
+background: #E55473;
+width: 150px;
+height: 40px;
+color:white;
+border: none;
+}
