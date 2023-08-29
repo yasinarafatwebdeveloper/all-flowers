@@ -225,3 +225,54 @@ line-height: 30px;
     /* margin:0 49px ; */
 
 }
+
+/* sixth flower section css work is start */
+.flower-background{
+    background-image:url('../Flower\ Asset/Rectangle 9.png');
+    /* background-position: center bottom; */
+    background-repeat: no-repeat;
+    width: 930px;
+    height: 300px;
+    padding: 0px 100px 0 100px;
+     margin:  0px 100px 0 100px; 
+
+}
+.search-flower{
+    text-align: center;
+ /* margin-top: 150px; */
+}
+
+
+.email-option{
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+background: #FFF;
+border: none;
+ margin-top: 30px; 
+
+/* border: none; */
+}
+.latest-flower-name{
+
+    padding: 90px 0 0 0; 
+
+    text-align: center;
+
+}
+.first-shopping{
+   /* margin-top: 60px; */
+   margin-bottom: 0;
+}
+.flower-subscribe-button{
+width: 100px;
+height: 50px;
+/* margin-top: 60px; */
+color: #FFF;
+margin-left: 20px;
+font-size: 15px;
+border-radius: 8px;
+background: #E55473;
+font-weight: 600;
+border: none;
+}
