@@ -311,4 +311,31 @@ border: none;
     width: 400px;
     height: 40px;
 }
+/* footer work css is start */
+.footer-work{
+    text-align: center;
+    margin-top: 100px;
+    background-color: #111010;
+    color:white;
+    height: 400px;
+}
+.flowshop{
+padding: 100px 0 0 0;
+}
+.footer-text{
 
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+
+font-size: 15px;
+
+font-weight: 400;
+line-height: 15px; /* 166.667% */
+}
+.flower-footer-text{
+    color: rgba(255, 255, 255, 0.40);
+}
+.picture-title{
+    font-size: 47px;
+    font-weight: 800;
+}
