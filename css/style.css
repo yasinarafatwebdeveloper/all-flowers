@@ -143,13 +143,14 @@ background: rgba(71, 125, 17, 0.15);
 .indivitual-flower{
     width: 300px;
     height: 400px;
-    padding:0 50px;
+    padding:0 60px;
+    /* margin-left: 30px; */
 }
 .flower-sale-up{
 
     color: #272727;
 
-font-size: 40px;
+font-size: 30px;
 
 font-weight: 800;
 
@@ -177,4 +178,50 @@ font-weight: 800;
     border-radius: 4px;
     margin-top: 10px;
     color:white;
+}
+
+/* fifth flower section css is start */
+.flower-sale-of-instagram{
+    color: #272727;
+    text-align: center;
+   
+    font-size: 30px;
+
+    font-weight: 700;
+
+}
+.established-fact{
+
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; 
+}
+
+.flowers-row-section{
+    padding: 10px 80px;
+}
+
+.images-row-displayes{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 30px 70px; */
+    /* align-items: center; */
+    margin-left: 20px;
+}
+.images-row-div{
+    width: 300px;
+    height: 400px;
+    /* padding:0 50px; */
+    
+}
+.images-row{
+    width: 270px;
+    height: 300px;
+   
+    /* margin:0 49px ; */
+
 }
