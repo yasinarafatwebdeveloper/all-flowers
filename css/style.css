@@ -276,3 +276,39 @@ background: #E55473;
 font-weight: 600;
 border: none;
 }
+
+/* i will create a css work start */
+.flower-searching{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    background-color: teal;
+    margin-top: 100px;
+}
+.flower-description-work{
+    width: 700px;
+    text-align: center;
+}
+.select-flower-option{
+    height: 60px;
+    display: block;
+}
+.click-btn{
+    width: 100px;
+    height: 40px;
+    background-color: #E55473;
+    border-radius: 7px;
+    border: none;
+}
+.flower-picture{
+    width: 400px;
+}
+.images-picture{
+    width: 400px;
+    height: 300px;
+}
+.find-the-flower{
+    width: 400px;
+    height: 40px;
+}
+
